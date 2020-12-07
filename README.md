@@ -21,10 +21,4 @@
     "type": "git",
     "url": "https://idontKnow/todo.git"
   },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
-  ]
 }
